@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/anras5/AdventOfCode2022/day7"
+	"github.com/anras5/AdventOfCode2022/day8"
 )
 
 func main() {
-	fmt.Println(day7.Zad7b())
+	fmt.Println(day8.Zad8b())
 
 }
