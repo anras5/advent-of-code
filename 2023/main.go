@@ -1,7 +1,9 @@
 package main
 
-import "github.com/anras5/AdventOfCode/2023/day1"
+import (
+	"github.com/anras5/AdventOfCode/2023/day4"
+)
 
 func main() {
-	day1.Task2()
+	day4.Task2()
 }
